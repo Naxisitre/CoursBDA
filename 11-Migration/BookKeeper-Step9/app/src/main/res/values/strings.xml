@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BookKeeper</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="book">Livre</string>
+    <string name="author">Auteur</string>
+    <string name="save">Sauvegarder</string>
+    <string name="not_saved">Livre non enregistré</string>
+    <string name="saved">Livre enregistré</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="deleted">Livre supprimé</string>
+    <string name="search_hint">Enter book or author</string>
+    <string name="description">Description</string>
+    <string name="last_updated">Last updated</string>
+</resources>
